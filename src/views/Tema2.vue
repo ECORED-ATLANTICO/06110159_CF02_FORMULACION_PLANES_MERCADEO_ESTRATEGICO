@@ -26,7 +26,7 @@
           .mb-0
 
       .row.justify-content-center.align-items-center.mb-5
-        .col-8.col-lg-2.mb-lg-0.mb-3(data-aos="zoom-in-right")
+        .col-6.col-lg-2.mb-lg-0.mb-3(data-aos="zoom-in-right")
           figure
             img(src="@/assets/curso/temas/tema_2/img_2.png", class="img-fluid")
         .col-12.col-lg-8(data-aos="zoom-in-right")
@@ -82,7 +82,7 @@
           .cita-decorada
             blockquote.cita-decorada__caja.cita-decorada__caja--fondo-3.p-4
               .row.justify-content-center.align-items-center
-                .col-3.col-lg-3.d-none.d-lg-block
+                .col-4.col-lg-3.d-none.d-lg-block
                   figure
                     img(src='@/assets/curso/temas/tema_2/img_7.png', class="cita-decorada__imagen-flotante-3")
                 .col-9.col-lg-9
@@ -92,7 +92,7 @@
       .col-12.col-lg-4.mb-4.mb-lg-0.d-flex
         .tarjeta.color-primario-5.p-4.h-100.w-100.d-flex.flex-column
           .row.justify-content-center.align-items-center.mb-3
-            .col-7.col-lg-7.mb-4.mb-lg-0
+            .col-6.col-lg-7.mb-4.mb-lg-0
               figure
                 img(src='@/assets/curso/temas/tema_2/img_9.png', class="img-fluid")
           h3.text-center Matriz de Eisenhower
@@ -100,7 +100,7 @@
       .col-12.col-lg-4.mb-4.mb-lg-0.d-flex
         .tarjeta.color-terciario-5.p-4.h-100.w-100.d-flex.flex-column
           .row.justify-content-center.align-items-center.mb-3
-            .col-7
+            .col-6.col-lg-7.mb-4.mb-lg-0
               figure
                 img(src='@/assets/curso/temas/tema_2/img_10.png', class="img-fluid")
           h3.text-center Análisis ABC
@@ -108,7 +108,7 @@
       .col-12.col-lg-4.mb-4.mb-lg-0.d-flex
         .tarjeta.color-acento-contenido-5.p-4.h-100.w-100.d-flex.flex-column
           .row.justify-content-center.align-items-center.mb-3
-            .col-7
+            .col-6.col-lg-7.mb-4.mb-lg-0
               figure
                 img(src='@/assets/curso/temas/tema_2/img_11.png', class="img-fluid")
           h3.text-center Matriz de Impacto - esfuerzo

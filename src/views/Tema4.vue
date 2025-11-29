@@ -28,7 +28,7 @@
       .bloque-texto-t__img.mb-0
         figure
           img(src='@/assets/curso/temas/tema_4/img_2.png')
-      .bloque-texto-t__texto.col-8.mb-0.p-4
+      .bloque-texto-t__texto.col-10.mb-0.p-4
         p.mb-0 La eficiencia en marketing se refiere a la capacidad de ejecutar acciones utilizando la menor cantidad de recursos posibles sin comprometer la calidad del resultado, es una medida de productividad que evalúa cómo se aprovechan los insumos como tiempo, dinero, talento y tecnología, para generar outputs valiosos. Una estrategia eficiente no solo reduce costos, sino que también optimiza procesos, automatiza tareas repetitivas y elimina actividades que no agregan valor.
 
     .bg_img_6.mb-5  
@@ -43,7 +43,7 @@
           .mb-0
       
       .row.justify-content-center.align-items-center.mb-0
-        .col-8.col-lg-2.mb-lg-0.mb-3(data-aos="zoom-in-right")
+        .col-6.col-lg-2.mb-lg-0.mb-3(data-aos="zoom-in-right")
           figure
             img(src="@/assets/curso/temas/tema_4/img_4.png", class="img-fluid")
         .col-12.col-lg-8(data-aos="zoom-in-right")
@@ -69,7 +69,7 @@
         .col-12.col-lg-8
           .tarjeta.color-primario-20.p-4.rounded-3
             .row.justify-content-center.align-items-center
-              .col-8.col-lg-2.mb-lg-0.mb-3
+              .col-4.col-lg-2.mb-lg-0.mb-3
                 figure
                   img(src='@/assets/curso/temas/tema_4/img_6.png', class="img-fluid")
               .col-12.col-lg-10
@@ -157,7 +157,7 @@
           p.mb-5 Los indicadores son herramientas que permiten medir el grado de eficiencia, eficacia y rentabilidad de las acciones ejecutadas. Según Kotler y Keller (2016), los indicadores deben ser relevantes, medibles y alineados con los objetivos estratégicos.
 
       .row.justify-content-center.align-items-center.mb-5
-        .col-8.col-lg-2.mb-lg-0.mb-3(data-aos="zoom-in-right")
+        .col-6.col-lg-2.mb-lg-0.mb-3(data-aos="zoom-in-right")
           figure
             img(src="@/assets/curso/temas/tema_4/img_9.png", class="img-fluid")
         .col-12.col-lg-8(data-aos="zoom-in-right")
@@ -180,7 +180,7 @@
                   p.mb-0 Mide la proporción de personas que hacen clic sobre un anuncio respecto a cuántas lo vieron. Indispensable para valorar si una campaña en redes sociales capta la atención del público.
       
       .row.justify-content-center.align-items-center.mb-0
-        .col-12.col-lg-10(data-aos="zoom-in-right")
+        .col-12.col-lg-8(data-aos="zoom-in-right")
           .cajon.color-terciario.p-4.mb-0
             .row.justify-content-center.align-items-center
               .col-12.col-lg-12

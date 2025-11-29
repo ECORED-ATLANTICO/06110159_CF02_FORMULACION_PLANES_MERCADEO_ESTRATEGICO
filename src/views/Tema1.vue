@@ -7,12 +7,14 @@
         span 1
       h1 Objetivos estratégicos
     
-    .bloque-texto-t.justify-content-center.align-items-center.mb-0(data-aos="zoom-in-right")
-      .bloque-texto-t__img.mb-0
-        figure
-          img(src='@/assets/curso/temas/tema_1/img_1.png')
-      .bloque-texto-t__texto.col-8.mb-0.p-4
-        p.mb-0 En el diseño de un plan de marketing, los objetivos estratégicos representan el punto de partida esencial, son el faro que guía todas las decisiones, acciones y recursos hacia una meta común, comprender su naturaleza, tipos y relación con la misión y visión organizacional permite estructurar actividades coherentes y alineadas con el propósito empresarial.
+    .row.justify-content-center.align-items-center.mb-0
+      .col-12.col-lg-12.mb-lg-0.mb-3(data-aos="zoom-in-right")
+        .bloque-texto-t.justify-content-center.align-items-center.mb-0(data-aos="zoom-in-right")
+          .bloque-texto-t__img.mb-0
+            figure
+              img(src='@/assets/curso/temas/tema_1/img_1.png')
+          .bloque-texto-t__texto.col-10.mb-0.p-4
+            p.mb-0 En el diseño de un plan de marketing, los objetivos estratégicos representan el punto de partida esencial, son el faro que guía todas las decisiones, acciones y recursos hacia una meta común, comprender su naturaleza, tipos y relación con la misión y visión organizacional permite estructurar actividades coherentes y alineadas con el propósito empresarial.
     
     
     .bg_img_1.mb-5
@@ -54,7 +56,7 @@
         .col-12.col-lg-10(data-aos="zoom-in-right")
           .tarjeta.color-adicional-4.p-4.rounded-0
             .row.justify-content-center.align-items-center
-              .col-8.col-lg-1.mb-lg-0.mb-3
+              .col-4.col-lg-1.mb-lg-0.mb-3
                 figure
                   img(src='@/assets/curso/temas/tema_1/img_4.svg', class="img-fluid")
               .col-12.col-lg-11
@@ -88,7 +90,7 @@
           .col-9.col-lg-9
             p.cita-decorada__texto.mb-2.p-3 La visión representa el horizonte futuro al que aspira una organización, es una declaración inspiradora que proyecta lo que la empresa desea convertirse en el mediano o largo plazo. Para Robbins y Coulter (2018), una visión efectiva debe ser clara, ambiciosa y motivadora, capaz de alinear a los equipos hacia un objetivo común.
             p.cita-decorada__texto.mb-2.p-3 A diferencia de la misión, que se enfoca en el presente, la visión mira hacia adelante, estimulando la innovación y el crecimiento. En marketing, la visión permite diseñar estrategias que no solo respondan al mercado actual, sino que anticipen tendencias y necesidades emergentes.
-          .col-3.col-lg-3.d-none.d-lg-block
+          .col-4.col-lg-3.d-none.d-lg-block
             figure
               img(src='@/assets/curso/temas/tema_1/img_7.png', class="cita-decorada__imagen-flotante-1")
 
@@ -101,7 +103,7 @@
         .mb-0
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-8.col-lg-1.mb-lg-0.mb-3
+      .col-4.col-lg-1.mb-lg-0.mb-3
         figure
           img(src='@/assets/curso/temas/tema_1/img_8.svg', class="img-fluid")
       .col-12.col-lg-9
@@ -122,7 +124,7 @@
         .cita-decorada
           blockquote.cita-decorada__caja.cita-decorada__caja--fondo-2.p-4
             .row.justify-content-center.align-items-center
-              .col-3.col-lg-3.d-none.d-lg-block
+              .col-4.col-lg-3.d-none.d-lg-block
                 figure
                   img(src='@/assets/curso/temas/tema_1/img_11.png', class="cita-decorada__imagen-flotante-2")
               .col-9.col-lg-9

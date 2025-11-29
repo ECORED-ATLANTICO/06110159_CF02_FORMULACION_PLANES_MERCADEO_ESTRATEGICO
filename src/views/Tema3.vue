@@ -119,7 +119,7 @@
         p.mb-3 La lógica de secuenciación consiste en establecer el orden óptimo en que deben ejecutarse las actividades del plan, considerando dependencias, tiempos y recursos, según Turner (2016), una secuenciación adecuada mejora la eficiencia operativa, reduce riesgos y facilita el seguimiento.
         .tarjeta.color-primario-20.p-4.rounded-3
           .row.justify-content-center.align-items-center
-            .col-8.col-lg-2.mb-lg-0.mb-3
+            .col-4.col-lg-2.mb-lg-0.mb-3
               figure
                 img(src='@/assets/curso/temas/tema_3/img_12.png', class="img-fluid")
             .col-12.col-lg-10

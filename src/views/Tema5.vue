@@ -8,7 +8,7 @@
       h1 Mejora continua
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-8.col-lg-2.mb-lg-0.mb-3(data-aos="zoom-in-right")
+      .col-6.col-lg-2.mb-lg-0.mb-3(data-aos="zoom-in-right")
         figure
           img(src="@/assets/curso/temas/tema_5/img_1.png", class="img-fluid")
       .col-12.col-lg-10(data-aos="zoom-in-right")
@@ -16,18 +16,18 @@
         p.mb-0 La mejora continua se define como un proceso sistemático de revisión y perfeccionamiento de actividades, con el fin de incrementar su calidad, eficiencia y alineación con los objetivos estratégicos. Según Deming (1986), este enfoque se basa en el ciclo PHVA (Planear-Hacer-Verificar-Actuar), que promueve la reflexión constante y la acción informada.
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-8.col-lg-10.mb-lg-0.mb-3(data-aos="zoom-in-right")
+      .col-12.col-lg-10.mb-lg-0.mb-3(data-aos="zoom-in-right")
         .cita-decorada
           blockquote.cita-decorada__caja.cita-decorada__caja--fondo-4.p-4
             .row.justify-content-center.align-items-center
-              .col-9.col-lg-8
+              .col-12.col-lg-8
                 p.cita-decorada__texto.mb-2.p-3 En el contexto del marketing, la mejora continua permite ajustar campañas, redefinir públicos objetivos, optimizar canales de comunicación y adaptar mensajes según el comportamiento del consumidor. Enfoques como Kaizen, Lean Marketing y Agile Marketing refuerzan esta práctica, promoviendo pequeños cambios sostenidos, eliminación de desperdicios y trabajo colaborativo en sprints (ciclo de trabajo):
-              .col-3.col-lg-4.d-none.d-lg-block
+              .col-4.col-lg-4.d-none.d-lg-block
                 figure
                   img(src='@/assets/curso/temas/tema_5/img_3.png', class="cita-decorada__imagen-flotante-4")
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-8.col-lg-3.mb-lg-0.mb-3(data-aos="zoom-in-right")
+      .col-6.col-lg-3.mb-lg-0.mb-3(data-aos="zoom-in-right")
         figure
           img(src="@/assets/curso/temas/tema_5/img_5.png", class="img-fluid")
       .col-12.col-lg-7(data-aos="zoom-in-right")
@@ -67,10 +67,10 @@
             img(src="@/assets/curso/temas/tema_5/img_6.png", class="img-fluid")
       
       .row.justify-content-center.align-items-center.mb-5
-        .col-12.col-lg-8
+        .col-12.col-lg-10
           .tarjeta.color-adicional-4.p-4.rounded-3
             .row.justify-content-center.align-items-center
-              .col-8.col-lg-2.mb-lg-0.mb-3
+              .col-4.col-lg-2.mb-lg-0.mb-3
                 figure
                   img(src='@/assets/curso/temas/tema_5/img_7.png', class="img-fluid")
               .col-12.col-lg-10
