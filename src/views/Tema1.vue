@@ -14,7 +14,7 @@
             figure
               img(src='@/assets/curso/temas/tema_1/img_1.png')
           .bloque-texto-t__texto.col-10.mb-0.p-4
-            p.mb-0 En el diseño de un plan de marketing, los objetivos estratégicos representan el punto de partida esencial, son el faro que guía todas las decisiones, acciones y recursos hacia una meta común, comprender su naturaleza, tipos y relación con la misión y visión organizacional permite estructurar actividades coherentes y alineadas con el propósito empresarial.
+            p.mb-0 En el diseño de un plan de <em>marketing</em>, los objetivos estratégicos representan el punto de partida esencial, son el faro que guía todas las decisiones, acciones y recursos hacia una meta común, comprender su naturaleza, tipos y relación con la misión y visión organizacional permite estructurar actividades coherentes y alineadas con el propósito empresarial.
     
     
     .bg_img_1.mb-5
@@ -25,7 +25,7 @@
             img(src="@/assets/curso/temas/tema_1/img_2.png", class="img-fluid")
         .col-12.col-lg-9(data-aos="zoom-in-right")
           p.mb-3 Los objetivos estratégicos de mercadeo son declaraciones claras que definen lo que una organización desea alcanzar en términos de posicionamiento, participación de mercado, fidelización de clientes, entre otros aspectos clave. Según Kotler y Keller (2016), estos objetivos deben ser específicos, medibles, alcanzables, relevantes y con un tiempo definido (SMART), lo que permite su seguimiento y evaluación.
-          p.mb-0 En el contexto del marketing, los objetivos estratégicos no solo orientan las acciones comerciales, sino que también reflejan la identidad y aspiraciones de la empresa. Por ejemplo, una empresa como Nike puede establecer como objetivo estratégico “incrementar la participación en el mercado latinoamericano en un 15 % en los próximos dos años”, lo cual implica decisiones sobre distribución, comunicación y producto adaptadas a ese entorno.
+          p.mb-0 En el contexto del <em>marketing</em>, los objetivos estratégicos no solo orientan las acciones comerciales, sino que también reflejan la identidad y aspiraciones de la empresa. Por ejemplo, una empresa como Nike puede establecer como objetivo estratégico “incrementar la participación en el mercado latinoamericano en un 15 % en los próximos dos años”, lo cual implica decisiones sobre distribución, comunicación y producto adaptadas a ese entorno.
 
       Separador 
     
@@ -60,7 +60,7 @@
                 figure
                   img(src='@/assets/curso/temas/tema_1/img_4.svg', class="img-fluid")
               .col-12.col-lg-11
-                p.mb-0 Cada tipo de objetivo cumple una función distinta dentro del plan de marketing, pero todos deben estar interconectados para garantizar coherencia estratégica, la claridad en su formulación permite que los equipos de trabajo comprendan su rol y contribuyan activamente a su cumplimiento.
+                p.mb-0 Cada tipo de objetivo cumple una función distinta dentro del plan de <em>marketing</em>, pero todos deben estar interconectados para garantizar coherencia estratégica, la claridad en su formulación permite que los equipos de trabajo comprendan su rol y contribuyan activamente a su cumplimiento.
 
     Separador
 
@@ -76,7 +76,7 @@
           .p-4.p-lg-5.d-flex.align-items-center.h-100
             div
               p.mb-3 La misión de una organización es la declaración que define su razón de ser, el propósito fundamental que la impulsa y el valor que busca aportar a sus públicos. No se trata solo de lo que hace, sino de por qué lo hace, según David (2017), una misión bien formulada comunica claramente el enfoque estratégico de la empresa, sus valores centrales y el tipo de impacto que desea generar.
-              p.mb-0.texto-resaltado.texto-resaltado--color-primario En marketing, la misión actúa como brújula ética y estratégica, asegurando que las acciones no se desvíen del propósito original.
+              p.mb-0.texto-resaltado.texto-resaltado--color-primario En <em>marketing</em>, la misión actúa como brújula ética y estratégica, asegurando que las acciones no se desvíen del propósito original.
 
     Separador 
  
@@ -89,7 +89,7 @@
         .row.justify-content-center.align-items-center
           .col-9.col-lg-9
             p.cita-decorada__texto.mb-2.p-3 La visión representa el horizonte futuro al que aspira una organización, es una declaración inspiradora que proyecta lo que la empresa desea convertirse en el mediano o largo plazo. Para Robbins y Coulter (2018), una visión efectiva debe ser clara, ambiciosa y motivadora, capaz de alinear a los equipos hacia un objetivo común.
-            p.cita-decorada__texto.mb-2.p-3 A diferencia de la misión, que se enfoca en el presente, la visión mira hacia adelante, estimulando la innovación y el crecimiento. En marketing, la visión permite diseñar estrategias que no solo respondan al mercado actual, sino que anticipen tendencias y necesidades emergentes.
+            p.cita-decorada__texto.mb-2.p-3 A diferencia de la misión, que se enfoca en el presente, la visión mira hacia adelante, estimulando la innovación y el crecimiento. En <em>marketing</em>, la visión permite diseñar estrategias que no solo respondan al mercado actual, sino que anticipen tendencias y necesidades emergentes.
           .col-4.col-lg-3.d-none.d-lg-block
             figure
               img(src='@/assets/curso/temas/tema_1/img_7.png', class="cita-decorada__imagen-flotante-1")
@@ -112,7 +112,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-lg-10 
         .titulo-sexto.color-acento-contenido.mb-3(data-aos="zoom-in-right")
-          h5 Figura 1.
+          h5 Figura 1. Modelo SMART para la formulación de objetivos.
         figure(data-aos="zoom-in-right").mb-3
           img(src='@/assets/curso/temas/tema_1/img_9.svg', class="img-fluid d-none d-lg-block mb-0")
           img(src='@/assets/curso/temas/tema_1/img_10.svg', class="img-fluid d-block d-lg-none mb-0")
@@ -128,8 +128,8 @@
                 figure
                   img(src='@/assets/curso/temas/tema_1/img_11.png', class="cita-decorada__imagen-flotante-2")
               .col-9.col-lg-9
-                p.cita-decorada__texto.mb-2.p-3 En marketing, estos objetivos se traducen en acciones concretas como segmentación, posicionamiento y comunicación, asegurando que cada esfuerzo contribuya al logro global.
-                p.cita-decorada__texto.mb-2.p-3 En conclusión, los objetivos estratégicos de mercadeo no existen en aislamiento, están profundamente vinculados con la misión (razón de ser), la visión (aspiración futura) y los objetivos organizacionales generales, esta alineación asegura que las acciones de marketing contribuyan al propósito global de la empresa.
+                p.cita-decorada__texto.mb-2.p-3 En <em>marketing</em>, estos objetivos se traducen en acciones concretas como segmentación, posicionamiento y comunicación, asegurando que cada esfuerzo contribuya al logro global.
+                p.cita-decorada__texto.mb-2.p-3 En conclusión, los objetivos estratégicos de mercadeo no existen en aislamiento, están profundamente vinculados con la misión (razón de ser), la visión (aspiración futura) y los objetivos organizacionales generales, esta alineación asegura que las acciones de <em>marketing</em> contribuyan al propósito global de la empresa.
 </template>
 
 <script>

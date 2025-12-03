@@ -120,7 +120,7 @@ export default {
           },
           {
             numero: '4.3',
-            titulo: 'Costo-beneficio',
+            titulo: 'Costo - beneficio',
             hash: 't_4_3',
           },
           {
@@ -185,7 +185,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/dist.pdf',
+        download: 'downloads/CFA2_06110159_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -255,7 +255,7 @@ export default {
         'Modelo visual que describe los elementos clave de un negocio en nueve bloques para diseñar, analizar y comunicar propuestas de valor.',
     },
     {
-      termino: 'Costo-beneficio',
+      termino: 'Costo - beneficio',
       significado:
         'Método de evaluación que compara los costos invertidos con los beneficios obtenidos, utilizado para justificar decisiones estratégicas.',
     },
@@ -315,9 +315,9 @@ export default {
     },
     {
       referencia:
-        'URF. (2024). <em>Manual de indicadores para seguimiento y evaluación</em>. Unidad de Regulación Financiera.',
+        'Unidad de Regulación Financiera (URF). (2022, 31 de octubre). <em>Manual de Formulación, Seguimiento, Mejoramiento y Evaluación de Indicadores</em> – Versión 1.0. Disponible en:',
       link:
-        'https://www.urf.gov.co/documents/283253/350351/20250402_DP-MO-002_V2_Manual_Indicadores.pdf',
+        'https://www.urf.gov.co/documents/d/guest/20221031_dp-mo-002_v1_manual_indicadores?download=true',
     },
   ],
   creditos: [

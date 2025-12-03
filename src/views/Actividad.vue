@@ -208,7 +208,7 @@ export default {
         {
           id: 13,
           texto:
-            'El análisis costo-beneficio permite justificar decisiones estratégicas en marketing.',
+            'El análisis costo - beneficio permite justificar decisiones estratégicas en <em>marketing</em>.',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
@@ -238,7 +238,7 @@ export default {
         {
           id: 15,
           texto:
-            'Los KPIs son indicadores clave que permiten medir el desempeño de las acciones de marketing.',
+            'Los KPIs son indicadores clave que permiten medir el desempeño de las acciones de <em>marketing</em>.',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [

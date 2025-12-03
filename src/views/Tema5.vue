@@ -12,8 +12,8 @@
         figure
           img(src="@/assets/curso/temas/tema_5/img_1.png", class="img-fluid")
       .col-12.col-lg-10(data-aos="zoom-in-right")
-        p.mb-3 La mejora continua es un principio esencial en la gestión estratégica de marketing, implica revisar, ajustar y perfeccionar las acciones ejecutadas para garantizar su pertinencia, efectividad y sostenibilidad.
-        p.mb-0 La mejora continua se define como un proceso sistemático de revisión y perfeccionamiento de actividades, con el fin de incrementar su calidad, eficiencia y alineación con los objetivos estratégicos. Según Deming (1986), este enfoque se basa en el ciclo PHVA (Planear-Hacer-Verificar-Actuar), que promueve la reflexión constante y la acción informada.
+        p.mb-3 La mejora continua es un principio esencial en la gestión estratégica de <em>marketing</em>, implica revisar, ajustar y perfeccionar las acciones ejecutadas para garantizar su pertinencia, efectividad y sostenibilidad.
+        p.mb-0 La mejora continua se define como un proceso sistemático de revisión y perfeccionamiento de actividades, con el fin de incrementar su calidad, eficiencia y alineación con los objetivos estratégicos. Según Deming (1986), este enfoque se basa en el ciclo PHVA (Planear - Hacer - Verificar - Actuar), que promueve la reflexión constante y la acción informada.
     
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-lg-10.mb-lg-0.mb-3(data-aos="zoom-in-right")
@@ -21,7 +21,7 @@
           blockquote.cita-decorada__caja.cita-decorada__caja--fondo-4.p-4
             .row.justify-content-center.align-items-center
               .col-12.col-lg-8
-                p.cita-decorada__texto.mb-2.p-3 En el contexto del marketing, la mejora continua permite ajustar campañas, redefinir públicos objetivos, optimizar canales de comunicación y adaptar mensajes según el comportamiento del consumidor. Enfoques como Kaizen, Lean Marketing y Agile Marketing refuerzan esta práctica, promoviendo pequeños cambios sostenidos, eliminación de desperdicios y trabajo colaborativo en sprints (ciclo de trabajo):
+                p.cita-decorada__texto.mb-2.p-3 En el contexto del <em>marketing</em>, la mejora continua permite ajustar campañas, redefinir públicos objetivos, optimizar canales de comunicación y adaptar mensajes según el comportamiento del consumidor. Enfoques como <em>Kaizen</em>, <em>Lean marketing</em> y <em>Agile marketing</em> refuerzan esta práctica, promoviendo pequeños cambios sostenidos, eliminación de desperdicios y trabajo colaborativo en <em>sprints</em> (ciclo de trabajo):
               .col-4.col-lg-4.d-none.d-lg-block
                 figure
                   img(src='@/assets/curso/temas/tema_5/img_3.png', class="cita-decorada__imagen-flotante-4")
@@ -32,21 +32,21 @@
           img(src="@/assets/curso/temas/tema_5/img_5.png", class="img-fluid")
       .col-12.col-lg-7(data-aos="zoom-in-right")
         AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--gris")
-          .row.justify-content-center.align-items-center.mb-0(titulo="PHVA (Planificar, Hacer, Verificar, Actuar)")
+          .row.justify-content-center.align-items-center.mb-0(titulo="PHVA (Planificar - Hacer - Verificar - Actuar)")
             .col-12.col-lg-12
-              p.mb-0 Método iterativo de mejora continua que permite ajustar campañas según resultados. Incluye: Planificar (definir objetivos y KPIs, como diseñar una campaña), Hacer (ejecutar en los canales seleccionados), Verificar (medir indicadores como CTR, ROI o engagement), y Actuar (optimizar contenidos, segmentación o presupuesto). Su beneficio principal es cerrar el ciclo de aprendizaje para evitar errores recurrentes.
+              p.mb-0 Método iterativo de mejora continua que permite ajustar campañas según resultados. Incluye: Planificar (definir objetivos y KPIs, como diseñar una campaña), Hacer (ejecutar en los canales seleccionados), Verificar (medir indicadores como CTR, ROI o <em>engagement</em>), y Actuar (optimizar contenidos, segmentación o presupuesto). Su beneficio principal es cerrar el ciclo de aprendizaje para evitar errores recurrentes.
 
-          .row.justify-content-center.align-items-center.mb-0(titulo="Kaizen")
+          .row.justify-content-center.align-items-center.mb-0(titulo="<em>Kaizen</em>")
             .col-12.col-lg-12
-              p.mb-0 Filosofía japonesa basada en pequeños cambios sostenidos, involucrando a todos los niveles y eliminando desperdicios (tiempo, recursos ó pasos innecesarios). Utiliza herramientas como 5S y Gemba Walk. En marketing se traduce en mejoras constantes como ajustar el copy de un anuncio, reorganizar el flujo del cliente o simplificar el proceso para aumentar conversiones.
+              p.mb-0 Filosofía japonesa basada en pequeños cambios sostenidos, involucrando a todos los niveles y eliminando desperdicios (tiempo, recursos ó pasos innecesarios). Utiliza herramientas como 5S y <em>Gemba Walk</em>. En <em>marketing</em> se traduce en mejoras constantes como ajustar el <em>copy</em> de un anuncio, reorganizar el flujo del cliente o simplificar el proceso para aumentar conversiones.
 
-          .row.justify-content-center.align-items-center.mb-0(titulo="Lean marketing")
+          .row.justify-content-center.align-items-center.mb-0(titulo="<em>Lean marketing</em>")
             .col-12.col-lg-12
               p.mb-0 Busca “hacer más con menos”, concentrándose solo en lo que aporta valor. Se basa en crear Productos Mínimos Viables (PMV), medir rápido y aprender en ciclos cortos. Emplea microcampañas económicas, segmentación precisa y acciones en tiempo real. Un ejemplo es lanzar una campaña piloto con bajo presupuesto, medir su impacto y escalar solo si genera buenos resultados.
 
-          .row.justify-content-center.align-items-center.mb-0(titulo="Agile marketing")
+          .row.justify-content-center.align-items-center.mb-0(titulo="<em>Agile marketing</em>")
             .col-12.col-lg-12
-              p.mb-0 Enfoque flexible inspirado en Scrum y Kanban, con equipos multidisciplinarios que trabajan en sprints cortos, reciben feedback constante y toman decisiones basadas en datos. Usa herramientas como tableros Kanban, backlogs y war rooms digitales. Por ejemplo, un equipo que lanza una campaña en dos semanas, analiza métricas y ajusta mensajes según el comportamiento del consumidor.
+              p.mb-0 Enfoque flexible inspirado en <em>Scrum</em> y <em>Kanban</em>, con equipos multidisciplinarios que trabajan en <em>sprints</em> cortos, reciben <em>feedback</em> constante y toman decisiones basadas en datos. Usa herramientas como tableros <em>Kanban</em>, <em>backlogs</em> y <em>war rooms</em> digitales. Por ejemplo, un equipo que lanza una campaña en dos semanas, analiza métricas y ajusta mensajes según el comportamiento del consumidor.
     
     .bg_img_8.mb-5  
 
@@ -85,7 +85,7 @@
             .h2(data-aos="fade-right") 5.2 Evaluación
           .mb-0
 
-          p.mb-5 La mejora continua se apoya en instrumentos que facilitan la observación, el análisis y la toma de decisiones, estos instrumentos permiten recoger información cualitativa y cuantitativa sobre el desempeño de las acciones de marketing.
+          p.mb-5 La mejora continua se apoya en instrumentos que facilitan la observación, el análisis y la toma de decisiones, estos instrumentos permiten recoger información cualitativa y cuantitativa sobre el desempeño de las acciones de <em>marketing</em>.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-lg-8.order-2.order-lg-1.mb-0(data-aos="zoom-in-right")

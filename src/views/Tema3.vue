@@ -12,8 +12,8 @@
         figure
           img(src="@/assets/curso/temas/tema_3/img_1.png", class="img-fluid")
       .col-12.col-lg-7(data-aos="zoom-in-right")
-        p.mb-3 La programación de recursos es una etapa crítica en la estructuración de actividades del plan de marketing, es necesario organizar los medios disponibles de forma eficiente para garantizar que las acciones se ejecuten con calidad, en tiempo y dentro del presupuesto. 
-        p.mb-0 La programación de recursos se refiere al proceso de asignar, organizar y calendarizar los medios necesarios para ejecutar un plan. Según Kerzner (2017), este proceso implica identificar qué recursos se necesitan, cuándo se requieren y cómo se distribuyen a lo largo del proyecto. En marketing, los recursos pueden incluir talento humano, presupuesto, tecnología, tiempo y materiales, todos interdependientes y sujetos a restricciones.
+        p.mb-3 La programación de recursos es una etapa crítica en la estructuración de actividades del plan de <em>marketing</em>, es necesario organizar los medios disponibles de forma eficiente para garantizar que las acciones se ejecuten con calidad, en tiempo y dentro del presupuesto. 
+        p.mb-0 La programación de recursos se refiere al proceso de asignar, organizar y calendarizar los medios necesarios para ejecutar un plan. Según Kerzner (2017), este proceso implica identificar qué recursos se necesitan, cuándo se requieren y cómo se distribuyen a lo largo del proyecto. En <em>marketing</em>, los recursos pueden incluir talento humano, presupuesto, tecnología, tiempo y materiales, todos interdependientes y sujetos a restricciones.
     
     .bg_img_3.mb-5
     
@@ -25,7 +25,7 @@
             .h2(data-aos="fade-right") 3.1 Tipos
           .mb-0 
         .col-12.col-lg-10(data-aos="zoom-in-right")
-          p.mb-5 Los recursos en marketing pueden clasificarse en varias categorías, cada una con características específicas que determinan su gestión:
+          p.mb-5 Los recursos en <em>marketing</em> pueden clasificarse en varias categorías, cada una con características específicas que determinan su gestión:
 
       .row.justify-content-center.align-items-center.mb-5
         .col-12.col-lg-8.order-2.order-lg-1.mb-0(data-aos="zoom-in-right")
@@ -36,7 +36,7 @@
                   .col-12.mb-3
                     .tarjeta--1
                   .tarjeta--slider__title.mb-3.text-center.fw-bold.texto-resaltado.texto-resaltado--color-acento-contenido-20 Humanos
-                  .tarjeta--slider__content.text-center Incluyen el talento, las habilidades y la disponibilidad del equipo. Determinan la calidad creativa y operativa del plan de marketing. Por ejemplo, una agencia asigna diseñadores, analistas o community managers según la complejidad de cada campaña para garantizar tiempos y resultados.
+                  .tarjeta--slider__content.text-center Incluyen el talento, las habilidades y la disponibilidad del equipo. Determinan la calidad creativa y operativa del plan de marketing. Por ejemplo, una agencia asigna diseñadores, analistas o <em>community managers</em> según la complejidad de cada campaña para garantizar tiempos y resultados.
               .tarjeta--blanca-1.h-95
                 .row.justify-content-center.align-items-center.mb-0
                   .col-12.mb-3
@@ -48,7 +48,7 @@
                   .col-12.mb-3
                     .tarjeta--3
                   .tarjeta--slider__title.mb-3.text-center.fw-bold.texto-resaltado.texto-resaltado--color-acento-contenido-20 Tecnológicos
-                  .tarjeta--slider__content.text-center Comprenden herramientas digitales, software de análisis, plataformas de automatización y equipos. Facilitan ejecutar tareas como segmentación, programación de contenidos o medición de resultados de manera más eficiente y escalable.
+                  .tarjeta--slider__content.text-center Comprenden herramientas digitales, <em>software</em> de análisis, plataformas de automatización y equipos. Facilitan ejecutar tareas como segmentación, programación de contenidos o medición de resultados de manera más eficiente y escalable.
               .tarjeta--blanca-1.h-95
                 .row.justify-content-center.align-items-center.mb-0
                   .col-12.mb-3
@@ -80,14 +80,14 @@
             .h2(data-aos="fade-right") 3.2 Herramientas
           .mb-0
         .col-12.col-lg-10(data-aos="zoom-in-right")
-          p.mb-5 La planificación de recursos requiere herramientas que permitan visualizar, organizar y controlar su uso de forma eficiente. Estas herramientas facilitan asignar cargas de trabajo, evitar cuellos de botella y ajustar el plan en tiempo real, garantizando que cada actividad disponga del tiempo, el presupuesto y el equipo necesario para ejecutarse con éxito. En marketing, su correcta aplicación asegura coherencia entre las acciones programadas y la disponibilidad de recursos durante todo el proyecto.
+          p.mb-5 La planificación de recursos requiere herramientas que permitan visualizar, organizar y controlar su uso de forma eficiente. Estas herramientas facilitan asignar cargas de trabajo, evitar cuellos de botella y ajustar el plan en tiempo real, garantizando que cada actividad disponga del tiempo, el presupuesto y el equipo necesario para ejecutarse con éxito. En <em>marketing</em>, su correcta aplicación asegura coherencia entre las acciones programadas y la disponibilidad de recursos durante todo el proyecto.
     
     .bg_img_4.mb-5
       SlyderA(tipo="b").tarjeta.tarjeta--blanca.p-4
         .row.justify-content-center.align-items-center
           .col-12.col-lg-5.order-2.order-lg-1.mb-0
             h5 Cronograma
-            p.mb-3 Organiza las actividades del proyecto en una línea de tiempo, indicando fechas de inicio y fin, secuencia de tareas y dependencias. Permite monitorear avances y anticipar retrasos. En marketing se usa para estructurar campañas por fases (diseño, producción, ejecución, entre otros), asegurando que cada actividad ocurra en el momento adecuado.
+            p.mb-3 Organiza las actividades del proyecto en una línea de tiempo, indicando fechas de inicio y fin, secuencia de tareas y dependencias. Permite monitorear avances y anticipar retrasos. En <em>marketing</em> se usa para estructurar campañas por fases (diseño, producción, ejecución, entre otros), asegurando que cada actividad ocurra en el momento adecuado.
           .col-12.col-lg-5.order-1.order-lg-2.mb-lg-0.mb-3
             figure
               img(src='@/assets/curso/temas/tema_3/img_9.png', class="img-fluid")
@@ -101,7 +101,7 @@
         .row.justify-content-center.align-items-center
           .col-12.col-lg-5.order-2.order-lg-1.mb-0
             h5 Presupuesto
-            p.mb-3 Controla los recursos financieros del proyecto mediante la asignación de costos por actividad, comparación entre lo estimado y lo ejecutado, y análisis de rentabilidad. En marketing ayuda a equilibrar inversión entre canales, campañas y contenidos para maximizar el retorno y evitar sobrecostos.
+            p.mb-3 Controla los recursos financieros del proyecto mediante la asignación de costos por actividad, comparación entre lo estimado y lo ejecutado, y análisis de rentabilidad. En <em>marketing</em> ayuda a equilibrar inversión entre canales, campañas y contenidos para maximizar el retorno y evitar sobrecostos.
           .col-12.col-lg-5.order-1.order-lg-2.mb-lg-0.mb-3
             figure
               img(src='@/assets/curso/temas/tema_3/img_11.png', class="img-fluid")
