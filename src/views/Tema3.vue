@@ -28,9 +28,9 @@
           p.mb-5 Los recursos en <em>marketing</em> pueden clasificarse en varias categorías, cada una con características específicas que determinan su gestión:
 
       .row.justify-content-center.align-items-center.mb-5
-        .col-12.col-lg-8.order-2.order-lg-1.mb-0(data-aos="zoom-in-right")
+        .col-12.col-sm-12.col-md-12.col-lg-12.col-xl-8.col-xxl-8.order-1.mb-0(data-aos="zoom-in-right")
           .custom-slider.p-3.p-sm-3(data-aos="zoom-in-right")
-            SlyderF(columnas="col-12 col-sm-12 col-md-12 col-lg-6")
+            SlyderF(columnas="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 col-xxl-6")
               .tarjeta--blanca-1.h-95
                 .row.justify-content-center.align-items-center.mb-0
                   .col-12.mb-3
@@ -61,7 +61,7 @@
                     .tarjeta--5
                   .tarjeta--slider__title.mb-3.text-center.fw-bold.texto-resaltado.texto-resaltado--color-acento-contenido-20 Temporales
                   .tarjeta--slider__content.text-center Se refieren a tiempos, cronogramas y fechas clave. La correcta gestión asegura que campañas, lanzamientos o eventos se ejecuten en el momento adecuado para lograr mayor impacto comercial.
-        .col-8.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3(data-aos="zoom-in-right")
+        .col-8.col-sm-8.col-md-8.col-lg-8.col-xl-4.col-xxl-4.order-xl-2.order-xxl-2.mb-xl-0.mb-xxl-0.mb-3(data-aos="zoom-in-right")
           figure
             img(src="@/assets/curso/temas/tema_3/img_7.png", class="img-fluid")
     
@@ -174,10 +174,10 @@
           p.mb-0 El diagrama de red permite analizar el flujo completo del proyecto, facilitando la toma de decisiones, la gestión de tiempos y la asignación de recursos. Gracias a su estructura visual, ayuda a prevenir retrasos y a identificar puntos sensibles que requieren especial atención.
     
       .row.justify-content-center.align-items-center.mb-0
-        .col-8.col-lg-3.mb-lg-0.mb-3
+        .col-8.col-sm-8.col-md-8.col-lg-8.col-xl-4.col-xxl-4.mb-3(data-aos="zoom-in-right")
           figure
             img(src='@/assets/curso/temas/tema_3/img_19.png', class="img-fluid")
-        .col-12.col-lg-8
+        .col-12.col-sm-12.col-md-12.col-lg-12.col-xl-8.col-xxl-8.mb-0(data-aos="zoom-in-right")
           .custom-slider.p-3.p-sm-3(data-aos="zoom-in-right")
             SlyderF(columnas="col-12 col-sm-12 col-md-12 col-lg-6")
               .tarjeta--blanca-1.h-95

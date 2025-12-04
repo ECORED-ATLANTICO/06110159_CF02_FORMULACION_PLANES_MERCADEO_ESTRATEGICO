@@ -35,37 +35,33 @@
       .row.justify-content-center.align-items-center.mb-5
         .col-12.col-lg-10(data-aos="zoom-in-right")
           TabsA.mb-0.tarjeta-tabs-a.color-primario-5
-            .tarjeta.color-primario-5.p-3.h-100.tarjeta-tabs-a__tarjeta(titulo="FODA (<em>SWOT</em>)")
+            .tarjeta.color-primario-5.p-4.h-100.tarjeta-tabs-a__tarjeta(titulo="FODA (<em>SWOT</em>)")
               .row.justify-content-center.align-items-center.mb-0
-                .col-12.col-sm-9.col-md-9.col-lg-9.col-xl-9.col-xxl-9.mb-4.mb-xl-0
-                  h5.mb-3 FODA (<em>SWOT</em>)
+                .col-12.col-sm-12.col-md-12.col-lg-9.col-xl-9.col-xxl-9.mb-4.mb-xl-0
                   p.mb-3 Es una metodología de diagnóstico que permite comprender la situación interna y externa de una organización mediante la identificación de cuatro elementos: fortalezas, oportunidades, debilidades y amenazas.
                   p.mb-0 Su valor radica en que integra factores controlables y no controlables, ayudando a determinar si la empresa está en condiciones de aprovechar una oportunidad o si debe prepararse ante un riesgo emergente. Útil para decidir si una empresa debe ingresar a un mercado o lanzar un producto, evaluando si sus capacidades son suficientes y qué riesgos del entorno podrían afectarla.
-                .col-8.col-sm-2.col-md-4.col-lg-4.col-xl-3.col-xxl-3.mb-4.mb-xl-0
+                .col-8.col-sm-2.col-md-4.col-lg-3.col-xl-3.col-xxl-3.mb-4.mb-xl-0
                   figure
                     img(src='@/assets/curso/temas/tema_2/img_3.png', class="img-fluid")(data-aos="fade-up")
-            .tarjeta.color-primario-5.p-3.h-100.tarjeta-tabs-a__tarjeta(titulo="PESTEL")
+            .tarjeta.color-primario-5.p-4.h-100.tarjeta-tabs-a__tarjeta(titulo="PESTEL")
               .row.justify-content-center.align-items-center.mb-0
-                .col-12.col-sm-9.col-md-9.col-lg-9.col-xl-9.col-xxl-9.mb-4.mb-xl-0
-                  h5.mb-3 PESTEL
+                .col-12.col-sm-12.col-md-12.col-lg-9.col-xl-9.col-xxl-9.mb-4.mb-xl-0
                   p.mb-0 Esta metodología examina el entorno macroeconómico a través de seis dimensiones: política, económica, social, tecnológica, ambiental y legal. Su propósito es identificar cómo factores externos, fuera del control directo de la organización, pueden influir en el desempeño del producto o en el ingreso a un territorio específico. Se usa al evaluar entrada a un país o sector, identificando condiciones como regulaciones, hábitos culturales, tecnología o normativas que pueden facilitar o limitar la operación.
-                .col-8.col-sm-2.col-md-4.col-lg-4.col-xl-3.col-xxl-3.mb-4.mb-xl-0
+                .col-8.col-sm-2.col-md-4.col-lg-3.col-xl-3.col-xxl-3.mb-4.mb-xl-0
                   figure
                     img(src='@/assets/curso/temas/tema_2/img_4.png', class="img-fluid")(data-aos="fade-up")
-            .tarjeta.color-primario-5.p-3.h-100.tarjeta-tabs-a__tarjeta(titulo="Modelo Canvas")
+            .tarjeta.color-primario-5.p-4.h-100.tarjeta-tabs-a__tarjeta(titulo="Modelo Canvas")
               .row.justify-content-center.align-items-center.mb-0
-                .col-12.col-sm-9.col-md-9.col-lg-9.col-xl-9.col-xxl-9.mb-4.mb-xl-0
-                  h5.mb-3 Modelo Canvas
+                .col-12.col-sm-12.col-md-12.col-lg-9.col-xl-9.col-xxl-9.mb-4.mb-xl-0
                   p.mb-0 Es una herramienta visual que representa la lógica con la que funciona un modelo de negocio a través de nueve bloques, incluyendo propuesta de valor, segmentos de clientes, canales, fuentes de ingresos y estructura de costos. Su ventaja es que permite observar de manera clara y sistémica cómo se relacionan entre sí los componentes que hacen que un producto llegue efectivamente al mercado. Sirve para ajustar la propuesta de valor, los segmentos de clientes o los canales, permitiendo mejorar la oferta y el funcionamiento general del negocio.
-                .col-8.col-sm-2.col-md-4.col-lg-4.col-xl-3.col-xxl-3.mb-4.mb-xl-0
+                .col-8.col-sm-2.col-md-4.col-lg-3.col-xl-3.col-xxl-3.mb-4.mb-xl-0
                   figure
                     img(src='@/assets/curso/temas/tema_2/img_5.png', class="img-fluid")(data-aos="fade-up")
-            .tarjeta.color-primario-5.p-3.h-100.tarjeta-tabs-a__tarjeta(titulo="5 fuerzas de Porter")
+            .tarjeta.color-primario-5.p-4.h-100.tarjeta-tabs-a__tarjeta(titulo="5 fuerzas de Porter")
               .row.justify-content-center.align-items-center.mb-0
-                .col-12.col-sm-9.col-md-9.col-lg-9.col-xl-9.col-xxl-9.mb-4.mb-xl-0
-                  h5.mb-3 5 fuerzas de Porter
+                .col-12.col-sm-12.col-md-12.col-lg-9.col-xl-9.col-xxl-9.mb-4.mb-xl-0
                   p.mb-0 Es un modelo de análisis competitivo que permite evaluar la intensidad de la competencia dentro de un sector y estimar su atractivo o rentabilidad. Examina cinco factores: rivalidad entre competidores, poder de negociación de proveedores y clientes, amenaza de productos sustitutos y amenaza de nuevos participantes. Su utilidad radica en que revela la capacidad de una empresa para sostener sus ventajas frente a las dinámicas del mercado. Permite determinar qué fuerzas aumentan la presión competitiva y qué acciones tomar para mantener la posición de la empresa, como diferenciarse o innovar.
-                .col-8.col-sm-2.col-md-4.col-lg-4.col-xl-3.col-xxl-3.mb-4.mb-xl-0
+                .col-8.col-sm-2.col-md-4.col-lg-3.col-xl-3.col-xxl-3.mb-4.mb-xl-0
                   figure
                     img(src='@/assets/curso/temas/tema_2/img_6.png', class="img-fluid")(data-aos="fade-up")
 
@@ -85,7 +81,7 @@
                 .col-4.col-lg-3.d-none.d-lg-block
                   figure
                     img(src='@/assets/curso/temas/tema_2/img_7.png', class="cita-decorada__imagen-flotante-3")
-                .col-9.col-lg-9
+                .col-12.col-lg-9
                   p.cita-decorada__texto.mb-2.p-3 La priorización es fundamental en la gestión estratégica porque permite concentrar los esfuerzos en las actividades que realmente generan valor. Las herramientas de priorización facilitan ordenar tareas, asignar recursos de manera eficiente y tomar decisiones más claras. Según Gutiérrez y De la Vara (2013), estas herramientas deben ser simples, visuales y ajustarse al contexto de cada organización. En <em>marketing</em>, su uso permite optimizar campañas, segmentar estrategias y orientar inversiones hacia las acciones con mayor impacto.
     
     .row.justify-content-center.align-items-stretch.mb-0

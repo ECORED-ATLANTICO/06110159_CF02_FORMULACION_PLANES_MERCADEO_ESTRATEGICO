@@ -76,7 +76,7 @@
           .p-4.p-lg-5.d-flex.align-items-center.h-100
             div
               p.mb-3 La misión de una organización es la declaración que define su razón de ser, el propósito fundamental que la impulsa y el valor que busca aportar a sus públicos. No se trata solo de lo que hace, sino de por qué lo hace, según David (2017), una misión bien formulada comunica claramente el enfoque estratégico de la empresa, sus valores centrales y el tipo de impacto que desea generar.
-              p.mb-0.texto-resaltado.texto-resaltado--color-primario En <em>marketing</em>, la misión actúa como brújula ética y estratégica, asegurando que las acciones no se desvíen del propósito original.
+              p.mb-0.texto-resaltado.texto-resaltado--color-primario <b>En <em>marketing</em>, la misión actúa como brújula ética y estratégica, asegurando que las acciones no se desvíen del propósito original.</b>
 
     Separador 
  
@@ -87,7 +87,7 @@
     .cita-decorada
       blockquote.cita-decorada__caja.cita-decorada__caja--fondo-1.p-4
         .row.justify-content-center.align-items-center
-          .col-9.col-lg-9
+          .col-12.col-lg-9
             p.cita-decorada__texto.mb-2.p-3 La visión representa el horizonte futuro al que aspira una organización, es una declaración inspiradora que proyecta lo que la empresa desea convertirse en el mediano o largo plazo. Para Robbins y Coulter (2018), una visión efectiva debe ser clara, ambiciosa y motivadora, capaz de alinear a los equipos hacia un objetivo común.
             p.cita-decorada__texto.mb-2.p-3 A diferencia de la misión, que se enfoca en el presente, la visión mira hacia adelante, estimulando la innovación y el crecimiento. En <em>marketing</em>, la visión permite diseñar estrategias que no solo respondan al mercado actual, sino que anticipen tendencias y necesidades emergentes.
           .col-4.col-lg-3.d-none.d-lg-block
@@ -105,7 +105,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-4.col-lg-1.mb-lg-0.mb-3
         figure
-          img(src='@/assets/curso/temas/tema_1/img_8.svg', class="img-fluid")
+          img(src='@/assets/curso/temas/tema_1/img_8.svg', class="img-fluid").d-none.d-lg-block
       .col-12.col-lg-9
         p.mb-0 Los objetivos organizacionales son metas concretas que derivan de la misión y visión, y que permiten medir el progreso de la empresa en distintas áreas, estos objetivos pueden ser estratégicos, tácticos u operativos, dependiendo del nivel de decisión al que estén dirigidos. Según Drucker (2007), los objetivos deben ser específicos, medibles, alcanzables, relevantes y temporales (SMART), lo que facilita su seguimiento y evaluación.
     
@@ -114,22 +114,22 @@
         .titulo-sexto.color-acento-contenido.mb-3(data-aos="zoom-in-right")
           h5 Figura 1. Modelo SMART para la formulación de objetivos.
         figure(data-aos="zoom-in-right").mb-3
-          img(src='@/assets/curso/temas/tema_1/img_9.svg', class="img-fluid d-none d-lg-block mb-0")
-          img(src='@/assets/curso/temas/tema_1/img_10.svg', class="img-fluid d-block d-lg-none mb-0")
+          img(src='@/assets/curso/temas/tema_1/img_9.svg', class="img-fluid d-none d-lg-block mb-0", alt="En la figura se presenta el modelo SMART, una guía que indica que los objetivos deben ser específicos, medibles, alcanzables, relevantes y definidos en el tiempo, con el fin de asegurar que sean comprensibles, realistas y orientados a resultados.")
+          img(src='@/assets/curso/temas/tema_1/img_10.svg', class="img-fluid d-block d-lg-none mb-0", alt="En la figura se presenta el modelo SMART, una guía que indica que los objetivos deben ser específicos, medibles, alcanzables, relevantes y definidos en el tiempo, con el fin de asegurar que sean comprensibles, realistas y orientados a resultados.")
         figcaption(data-aos="zoom-in-right") 
           <b>Fuente:</b>  SENA, 2025.
     
     .row.justify-content-center.align-items-center.mb-0
       .col-12.col-lg-10(data-aos="zoom-in-right")
         .cita-decorada
-          blockquote.cita-decorada__caja.cita-decorada__caja--fondo-2.p-4
+          blockquote.cita-decorada__caja.cita-decorada__caja--fondo-2.p-1
             .row.justify-content-center.align-items-center
               .col-4.col-lg-3.d-none.d-lg-block
                 figure
-                  img(src='@/assets/curso/temas/tema_1/img_11.png', class="cita-decorada__imagen-flotante-2")
-              .col-9.col-lg-9
-                p.cita-decorada__texto.mb-2.p-3 En <em>marketing</em>, estos objetivos se traducen en acciones concretas como segmentación, posicionamiento y comunicación, asegurando que cada esfuerzo contribuya al logro global.
-                p.cita-decorada__texto.mb-2.p-3 En conclusión, los objetivos estratégicos de mercadeo no existen en aislamiento, están profundamente vinculados con la misión (razón de ser), la visión (aspiración futura) y los objetivos organizacionales generales, esta alineación asegura que las acciones de <em>marketing</em> contribuyan al propósito global de la empresa.
+                  img(src='@/assets/curso/temas/tema_1/img_11-1.png', class="cita-decorada__imagen-flotante-2").h-100
+              .col-12.col-lg-8.p-4
+                p.cita-decorada__texto.mb-1.p-2 En <em>marketing</em>, estos objetivos se traducen en acciones concretas como segmentación, posicionamiento y comunicación, asegurando que cada esfuerzo contribuya al logro global.
+                p.cita-decorada__texto.mb-1.p-2 En conclusión, los objetivos estratégicos de mercadeo no existen en aislamiento, están profundamente vinculados con la misión (razón de ser), la visión (aspiración futura) y los objetivos organizacionales generales, esta alineación asegura que las acciones de <em>marketing</em> contribuyan al propósito global de la empresa.
 </template>
 
 <script>

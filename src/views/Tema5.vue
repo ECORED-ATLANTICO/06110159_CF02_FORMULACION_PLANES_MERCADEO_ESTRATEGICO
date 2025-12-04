@@ -88,7 +88,7 @@
           p.mb-5 La mejora continua se apoya en instrumentos que facilitan la observación, el análisis y la toma de decisiones, estos instrumentos permiten recoger información cualitativa y cuantitativa sobre el desempeño de las acciones de <em>marketing</em>.
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-12.col-lg-8.order-2.order-lg-1.mb-0(data-aos="zoom-in-right")
+      .col-12.col-sm-12.col-md-12.col-lg-12.col-xl-8.col-xxl-8.order-1.mb-0(data-aos="zoom-in-right")
         .custom-slider.p-3.p-sm-3(data-aos="zoom-in-right")
           SlyderF(columnas="col-12 col-sm-12 col-md-12 col-lg-6")
             .tarjeta--blanca-1.h-95
@@ -115,7 +115,7 @@
                   .tarjeta--13
                 .tarjeta--slider__title.mb-3.text-center.fw-bold.texto-resaltado.texto-resaltado--color-acento-contenido-20 Reunión retrospectiva
                 .tarjeta--slider__content.text-center Espacio de reflexión y mejora en equipo, por ejemplo, para analizar resultados y proponer ajustes en un equipo creativo.
-      .col-8.col-lg-3.order-1.order-lg-2.mb-lg-0.mb-3(data-aos="zoom-in-right")
+      .col-8.col-sm-8.col-md-8.col-lg-8.col-xl-4.col-xxl-4.order-xl-2.order-xxl-2.mb-xl-0.mb-xxl-0.mb-3(data-aos="zoom-in-right")
         figure
           img(src="@/assets/curso/temas/tema_5/img_12.png", class="img-fluid")
     
