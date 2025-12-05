@@ -124,7 +124,7 @@
         .cita-decorada
           blockquote.cita-decorada__caja.cita-decorada__caja--fondo-2.p-1
             .row.justify-content-center.align-items-center
-              .col-4.col-lg-3.d-none.d-lg-block
+              .col-4.col-lg-3.d-none.d-lg-flex.align-items-center
                 figure
                   img(src='@/assets/curso/temas/tema_1/img_11-1.png', class="cita-decorada__imagen-flotante-2")
               .col-12.col-lg-8.p-4
