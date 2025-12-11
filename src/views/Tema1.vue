@@ -127,9 +127,9 @@
               .col-4.col-lg-3.d-none.d-lg-flex.align-items-center
                 figure
                   img(src='@/assets/curso/temas/tema_1/img_11-1.png', class="cita-decorada__imagen-flotante-2")
-              .col-12.col-lg-8.p-4
-                p.cita-decorada__texto.mb-1.p-2 En <em>marketing</em>, estos objetivos se traducen en acciones concretas como segmentación, posicionamiento y comunicación, asegurando que cada esfuerzo contribuya al logro global.
-                p.cita-decorada__texto.mb-1.p-2 En conclusión, los objetivos estratégicos de mercadeo no existen en aislamiento, están profundamente vinculados con la misión (razón de ser), la visión (aspiración futura) y los objetivos organizacionales generales, esta alineación asegura que las acciones de <em>marketing</em> contribuyan al propósito global de la empresa.
+              .col-12.col-lg-8.p-5
+                p.cita-decorada__texto.mb-0.p-3 En <em>marketing</em>, estos objetivos se traducen en acciones concretas como segmentación, posicionamiento y comunicación, asegurando que cada esfuerzo contribuya al logro global.
+                p.cita-decorada__texto.mb-0.p-3 En conclusión, los objetivos estratégicos de mercadeo no existen en aislamiento, están profundamente vinculados con la misión (razón de ser), la visión (aspiración futura) y los objetivos organizacionales generales, esta alineación asegura que las acciones de <em>marketing</em> contribuyan al propósito global de la empresa.
 </template>
 
 <script>

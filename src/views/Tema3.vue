@@ -36,7 +36,7 @@
                   .col-12.mb-3
                     .tarjeta--1
                   .tarjeta--slider__title.mb-3.text-center.fw-bold.texto-resaltado.texto-resaltado--color-acento-contenido-20 Humanos
-                  .tarjeta--slider__content.text-center Incluyen el talento, las habilidades y la disponibilidad del equipo. Determinan la calidad creativa y operativa del plan de marketing. Por ejemplo, una agencia asigna diseñadores, analistas o <em>community managers</em> según la complejidad de cada campaña para garantizar tiempos y resultados.
+                  .tarjeta--slider__content.text-center Incluyen el talento, las habilidades y la disponibilidad del equipo. Determinan la calidad creativa y operativa del plan de <em>marketing</em>. Por ejemplo, una agencia asigna diseñadores, analistas o <em>community managers</em> según la complejidad de cada campaña para garantizar tiempos y resultados.
               .tarjeta--blanca-1.h-95
                 .row.justify-content-center.align-items-center.mb-0
                   .col-12.mb-3

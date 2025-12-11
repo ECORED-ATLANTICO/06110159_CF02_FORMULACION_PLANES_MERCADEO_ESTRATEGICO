@@ -108,7 +108,7 @@
               figure
                 img(src='@/assets/curso/temas/tema_2/img_11.png', class="img-fluid")
           h3.text-center Matriz de Impacto - esfuerzo
-          p.text-small Evalúa acciones según el impacto que generan y el esfuerzo que requieren, permitiendo identificar “quick wins” que deben ejecutarse primero. En <em>marketing</em> ayuda a diferenciar tácticas que producen resultados rápidos con poco trabajo, de proyectos que requieren más recursos y deben planificarse. También evita que el equipo invierta tiempo en acciones que demandan mucho esfuerzo y aportan poco, manteniendo el enfoque en actividades que realmente impulsan los objetivos comerciales.
+          p.text-small Evalúa acciones según el impacto que generan y el esfuerzo que requieren, permitiendo identificar <em>“quick wins”</em> que deben ejecutarse primero. En <em>marketing</em> ayuda a diferenciar tácticas que producen resultados rápidos con poco trabajo, de proyectos que requieren más recursos y deben planificarse. También evita que el equipo invierta tiempo en acciones que demandan mucho esfuerzo y aportan poco, manteniendo el enfoque en actividades que realmente impulsan los objetivos comerciales.
 </template>
 
 <script>
