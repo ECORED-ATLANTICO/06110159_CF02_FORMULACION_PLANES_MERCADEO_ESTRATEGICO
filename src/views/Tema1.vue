@@ -24,7 +24,7 @@
           figure
             img(src="@/assets/curso/temas/tema_1/img_2.png", class="img-fluid")
         .col-12.col-lg-9(data-aos="zoom-in-right")
-          p.mb-3 Los objetivos estratégicos de mercadeo son declaraciones claras que definen lo que una organización desea alcanzar en términos de posicionamiento, participación de mercado, fidelización de clientes, entre otros aspectos clave. Según Kotler y Keller (2016), estos objetivos deben ser específicos, medibles, alcanzables, relevantes y con un tiempo definido (SMART), lo que permite su seguimiento y evaluación.
+          p.mb-3 Los objetivos estratégicos de mercadeo son declaraciones claras que definen lo que una organización desea alcanzar en términos de posicionamiento, participación de mercado, fidelización de clientes, entre otros aspectos clave. Según Kotler y Keller (2016), estos objetivos deben ser específicos, medibles, alcanzables, relevantes y con un tiempo definido (<em>SMART</em>), lo que permite su seguimiento y evaluación.
           p.mb-0 En el contexto del <em>marketing</em>, los objetivos estratégicos no solo orientan las acciones comerciales, sino que también reflejan la identidad y aspiraciones de la empresa. Por ejemplo, una empresa como Nike puede establecer como objetivo estratégico “incrementar la participación en el mercado latinoamericano en un 15 % en los próximos dos años”, lo cual implica decisiones sobre distribución, comunicación y producto adaptadas a ese entorno.
 
       Separador 
@@ -107,12 +107,12 @@
         figure
           img(src='@/assets/curso/temas/tema_1/img_8.svg', class="img-fluid").d-none.d-lg-block
       .col-12.col-lg-9
-        p.mb-0 Los objetivos organizacionales son metas concretas que derivan de la misión y visión, y que permiten medir el progreso de la empresa en distintas áreas, estos objetivos pueden ser estratégicos, tácticos u operativos, dependiendo del nivel de decisión al que estén dirigidos. Según Drucker (2007), los objetivos deben ser específicos, medibles, alcanzables, relevantes y temporales (SMART), lo que facilita su seguimiento y evaluación.
+        p.mb-0 Los objetivos organizacionales son metas concretas que derivan de la misión y visión, y que permiten medir el progreso de la empresa en distintas áreas, estos objetivos pueden ser estratégicos, tácticos u operativos, dependiendo del nivel de decisión al que estén dirigidos. Según Drucker (2007), los objetivos deben ser específicos, medibles, alcanzables, relevantes y temporales (<em>SMART</em>), lo que facilita su seguimiento y evaluación.
     
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-lg-10 
         .titulo-sexto.color-acento-contenido.mb-3(data-aos="zoom-in-right")
-          h5 Figura 1. Modelo SMART para la formulación de objetivos.
+          h5 Figura 1. Modelo T para la formulación de objetivos.
         figure(data-aos="zoom-in-right").mb-3
           img(src='@/assets/curso/temas/tema_1/img_9.svg', class="img-fluid d-none d-lg-block mb-0", alt="En la figura se presenta el modelo SMART, una guía que indica que los objetivos deben ser específicos, medibles, alcanzables, relevantes y definidos en el tiempo, con el fin de asegurar que sean comprensibles, realistas y orientados a resultados.")
           img(src='@/assets/curso/temas/tema_1/img_10.svg', class="img-fluid d-block d-lg-none mb-0", alt="En la figura se presenta el modelo SMART, una guía que indica que los objetivos deben ser específicos, medibles, alcanzables, relevantes y definidos en el tiempo, con el fin de asegurar que sean comprensibles, realistas y orientados a resultados.")

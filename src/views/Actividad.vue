@@ -118,7 +118,7 @@ export default {
         {
           id: 7,
           texto:
-            'El análisis PESTEL se enfoca exclusivamente en factores internos de la organización.',
+            'El análisis <em>PESTEL</em> se enfoca exclusivamente en factores internos de la organización.',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [

@@ -43,7 +43,7 @@
                 .col-8.col-sm-2.col-md-4.col-lg-6.col-xl-3.col-xxl-3.mb-4.mb-xl-0
                   figure
                     img(src='@/assets/curso/temas/tema_2/img_3.png', class="img-fluid")(data-aos="fade-up")
-            .tarjeta.color-primario-5.p-4.h-100.tarjeta-tabs-a__tarjeta(titulo="PESTEL")
+            .tarjeta.color-primario-5.p-4.h-100.tarjeta-tabs-a__tarjeta(titulo="<em>PESTEL</em>")
               .row.justify-content-center.align-items-center.mb-0
                 .col-12.col-sm-12.col-md-12.col-lg-12.col-xl-9.col-xxl-9.mb-4.mb-xl-0
                   p.mb-0 Esta metodología examina el entorno macroeconómico a través de seis dimensiones: política, económica, social, tecnológica, ambiental y legal. Su propósito es identificar cómo factores externos, fuera del control directo de la organización, pueden influir en el desempeño del producto o en el ingreso a un territorio específico. Se usa al evaluar entrada a un país o sector, identificando condiciones como regulaciones, hábitos culturales, tecnología o normativas que pueden facilitar o limitar la operación.
