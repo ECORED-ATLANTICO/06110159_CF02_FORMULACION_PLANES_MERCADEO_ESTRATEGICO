@@ -112,7 +112,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-lg-10 
         .titulo-sexto.color-acento-contenido.mb-3(data-aos="zoom-in-right")
-          h5 Figura 1. Modelo T para la formulación de objetivos.
+          h5 Figura 1. Modelo <em>SMART</em> para la formulación de objetivos 
         figure(data-aos="zoom-in-right").mb-3
           img(src='@/assets/curso/temas/tema_1/img_9.svg', class="img-fluid d-none d-lg-block mb-0", alt="En la figura se presenta el modelo SMART, una guía que indica que los objetivos deben ser específicos, medibles, alcanzables, relevantes y definidos en el tiempo, con el fin de asegurar que sean comprensibles, realistas y orientados a resultados.")
           img(src='@/assets/curso/temas/tema_1/img_10.svg', class="img-fluid d-block d-lg-none mb-0", alt="En la figura se presenta el modelo SMART, una guía que indica que los objetivos deben ser específicos, medibles, alcanzables, relevantes y definidos en el tiempo, con el fin de asegurar que sean comprensibles, realistas y orientados a resultados.")
